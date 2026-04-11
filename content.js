@@ -37,7 +37,7 @@ function injectDownloadButton() {
         dlBtn.onmouseenter = () => dlBtn.style.backgroundColor = "rgba(0, 0, 0, 0.5)";
         dlBtn.onmouseleave = () => dlBtn.style.backgroundColor = "rgba(0, 0, 0, 0.3)";
 
-dlBtn.onclick = (e) => {
+        dlBtn.onclick = (e) => {
             e.preventDefault();
             e.stopPropagation();
 
