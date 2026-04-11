@@ -22,8 +22,7 @@
     }
   ],
   "background": {
-    "scripts": ["background.js"],
-    "type": "module"
+    "scripts": ["background.js"]
   },
   "icons": {
     "48": "icon.png"
