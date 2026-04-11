@@ -61,7 +61,7 @@ const observer = new MutationObserver(() => {
     injectDownloadButton();
 });
 
-observer.observe(document.body, {
+observer.observe(document.documentElement, {
     childList: true,
     subtree: true
 });
