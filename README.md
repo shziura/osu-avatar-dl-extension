@@ -1,7 +1,5 @@
-# DISCLAIMER: THIS IS VIBECODED. IDK HOW GOOD THIS ACTUALLY IS
-
 # osu! avatar download extension for Firefox
-download a users avatar with one click!
+Download a users avatar with one click!
 
 # How to make this work locally
 
